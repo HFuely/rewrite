@@ -72,7 +72,7 @@ hostname = ap?.bilibili.com
 
 ***************************/
 
-let $ = nobyda();
+let $ = rewrite();
 let run = EnvInfo();
 
 async function SwitchRegion(play) {
