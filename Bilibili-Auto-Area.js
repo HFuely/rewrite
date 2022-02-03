@@ -1,14 +1,3 @@
-/**************************
-哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
-如需禁用豆瓣评分或策略通知, 可前往BoxJs设置.
-BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
-Author: @NobyDa
-****************************
-脚本取自@NobyDa的库，仅为了方便小白配置默认使用而更改了策略组名称
-作者库：https://raw.githubusercontent.com/NobyDa
-***************************/
-
-let $ = nobyda();
 let run = EnvInfo();
 
 async function SwitchRegion(play) {
