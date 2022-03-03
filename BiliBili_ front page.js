@@ -73,15 +73,15 @@ body['data']['bottom'] =[
         id: 179,
         icon: 'http://i0.hdslb.com/bfs/archive/4b0b2c49ffeb4f0c2e6a4cceebeef0aab1c53fe1.png',
         icon_selected: 'http://i0.hdslb.com/bfs/archive/a54a8009116cb896e64ef14dcf50e5cade401e00.png',
-        name: '频道',
-        uri: 'bilibili://pegasus/channel/',
-        tab_id: '频道Bottom',
-        pos: 3
-    },
-    {
-        id: 181,
-        icon: 'http://i0.hdslb.com/bfs/archive/86dfbe5fa32f11a8588b9ae0fccb77d3c27cedf6.png',
-        icon_selected: 'http://i0.hdslb.com/bfs/archive/25b658e1f6b6da57eecba328556101dbdcb4b53f.png',
+//        name: '频道',
+//        uri: 'bilibili://pegasus/channel/',
+//        tab_id: '频道Bottom',
+//        pos: 3
+//    },
+//    {
+//        id: 181,
+//        icon: 'http://i0.hdslb.com/bfs/archive/86dfbe5fa32f11a8588b9ae0fccb77d3c27cedf6.png',
+//        icon_selected: 'http://i0.hdslb.com/bfs/archive/25b658e1f6b6da57eecba328556101dbdcb4b53f.png',
         name: '我的',
         uri: 'bilibili://user_center/',
         tab_id: '我的Bottom',
